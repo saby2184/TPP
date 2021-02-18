@@ -1,2 +1,2 @@
-# TTP
+# TPP
 Text pre processing repo
